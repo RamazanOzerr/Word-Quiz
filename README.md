@@ -1,7 +1,25 @@
-# Python-Eng-Tr-Word-Quiz-App
-Quiz app with Python Tkinter 
-this app has created to people who wants to practice English Vocabular. 
-Question displays on the screen, and there are 4 choices and you're supposed to choose the correct one. 
-Every time you click next button, it'll be shown if your answer to the old question is correct ot not, an a new question will be displayed. 
-You can learn your results by "Display Result" button 
-You can also add new words by "Add word" button.
+
+# QUIZ APP
+a quiz app for english learners
+
+
+## Features
+
+- User can add new words
+- Offline playing
+- Easy to play
+
+
+  
+## How to download 
+
+you can download it from the link below
+```bash 
+ https://drive.google.com/file/d/1xp_PK91M3Zj4MgK8O-8V8wtAccG8GRY4/view?usp=share_link
+```
+    
+## Ekran Görüntüleri
+
+![Uygulama Ekran Görüntüsü](https://drive.google.com/file/d/1L9g8PVJ8XvWnm9Kliqab8iwftQDqIuRH/view?usp=sharing)
+![Uygulama Ekran Görüntüsü](https://drive.google.com/file/d/1jAZtta53U9f2Uj-2GkhFoo-08srsO5-W/view?usp=share_link)
+![Uygulama Ekran Görüntüsü](https://drive.google.com/file/d/1CHHsTdWvpc05HodaCuwb1pop9Nc5eTki/view?usp=share_link)
