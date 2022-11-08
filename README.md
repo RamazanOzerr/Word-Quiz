@@ -20,6 +20,6 @@ you can download it from the link below
     
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://drive.google.com/file/d/1L9g8PVJ8XvWnm9Kliqab8iwftQDqIuRH/view?usp=sharing)
-![Uygulama Ekran Görüntüsü](https://drive.google.com/file/d/1jAZtta53U9f2Uj-2GkhFoo-08srsO5-W/view?usp=share_link)
-![Uygulama Ekran Görüntüsü](https://drive.google.com/file/d/1CHHsTdWvpc05HodaCuwb1pop9Nc5eTki/view?usp=share_link)
+![1](https://user-images.githubusercontent.com/96844411/200536301-c8e7f26e-eab6-47a9-82e1-799f5e77e892.PNG)
+![2](https://user-images.githubusercontent.com/96844411/200536321-ae5b1936-a638-4d36-9852-efb18f7412a1.PNG)
+![3](https://user-images.githubusercontent.com/96844411/200536340-08df01cb-ee76-4f0b-9838-9555a4e67420.PNG)
