@@ -18,7 +18,7 @@ you can download it from the link below
  https://drive.google.com/file/d/1xp_PK91M3Zj4MgK8O-8V8wtAccG8GRY4/view?usp=share_link
 ```
     
-## Ekran Görüntüleri
+## Screenshots
 
 ![1](https://user-images.githubusercontent.com/96844411/200536301-c8e7f26e-eab6-47a9-82e1-799f5e77e892.PNG)
 ![2](https://user-images.githubusercontent.com/96844411/200536321-ae5b1936-a638-4d36-9852-efb18f7412a1.PNG)
